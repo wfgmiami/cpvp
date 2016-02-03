@@ -1,0 +1,4 @@
+2016 02 03 02:02:20|/var/www/html/cpvp/classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 03 02:02:20|Starting script..
+2016 02 03 02:02:00|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 03 02:02:00|Starting script..

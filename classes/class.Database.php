@@ -8,8 +8,7 @@
 				$this->Logging->log(__FILE__."||". __CLASS__."||".__LINE__."||Connected to database");
 				$sqlQuery = "select * from users.users";
 				$result = $this->singleRowQuery($sqlQuery);
-				print_r($result);
-
+	
 			} else {
     			$this->Logging->log("Could not connect");
 			}	

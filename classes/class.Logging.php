@@ -12,6 +12,7 @@
 			$logMessage = date("Y m d h:m:s", time())."|".$message.".\n";
 			
 			$logMessage = str_replace('/var/www/html/cpvp/', '', $logMessage);
+
 			fwrite($fp, $logMessage);
 			fclose($fp);
 		}

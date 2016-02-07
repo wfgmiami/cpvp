@@ -1,15 +1,16 @@
 <?php 
-
-	class TPageClass {
-		function __construct($className) {
-		    // echo "signup class";
-			// echo "<br />";
+	
+	require_once("../classes/class.GeneralPageClass.php");
+ 
+	class TPageClass extends TGeneralPageClass {
+		function init() {
+			if (isset($_POST['submit'])) {			
+				$sqlQuery = "insert into users (username, password) values ('".$this->safePost['username']."','".$this->safePost['password']."')"; 
 			
-			if (file_exists("../templates/pages/".$className.".html")) {		
-				$content = file_get_contents("../templates/pages/".$className.".html");
-				echo $content;
+				echo $sqlQuery;
 			} else {
-				echo "Page content not found.";
+				$this->showContent();
 			}
-		}
+
+		}	
 	}

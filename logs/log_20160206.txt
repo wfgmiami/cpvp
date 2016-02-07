@@ -104,3 +104,171 @@
 2016 02 06 03:02:35|classes/class.Database.php||TDatabase||8||Connected to database.
 2016 02 06 03:02:35|Starting script..
 2016 02 06 03:02:18|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:15|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:15|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:22|Starting script..
+2016 02 06 12:02:32|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:32|Starting script..
+2016 02 06 12:02:35|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:35|Starting script..
+2016 02 06 12:02:36|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:48|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:54|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:54|Starting script..
+2016 02 06 12:02:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:56|Starting script..
+2016 02 06 12:02:10|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:27|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 12:02:27|Starting script..
+2016 02 06 01:02:37|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:30|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:30|Starting script..
+2016 02 06 01:02:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:06|Starting script..
+2016 02 06 01:02:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:22|Starting script..
+2016 02 06 01:02:34|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:37|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:37|Starting script..
+2016 02 06 01:02:43|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:43|Starting script..
+2016 02 06 01:02:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:53|Starting script..
+2016 02 06 01:02:58|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:04|Starting script..
+2016 02 06 01:02:16|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:16|Starting script..
+2016 02 06 01:02:29|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:29|Starting script..
+2016 02 06 01:02:16|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:16|Starting script..
+2016 02 06 01:02:19|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 01:02:19|Starting script..
+2016 02 06 01:02:26|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:13|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:39|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:24|Starting script..
+2016 02 06 02:02:08|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:08|Starting script..
+2016 02 06 02:02:58|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:58|Starting script..
+2016 02 06 02:02:32|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:32|Starting script..
+2016 02 06 02:02:37|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:01|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 02:02:01|Starting script..
+2016 02 06 02:02:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:06|Starting script..
+2016 02 06 03:02:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:09|Starting script..
+2016 02 06 03:02:29|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:29|Starting script..
+2016 02 06 03:02:32|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:32|Starting script..
+2016 02 06 03:02:40|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:40|Starting script..
+2016 02 06 03:02:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:50|Starting script..
+2016 02 06 03:02:47|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:47|Starting script..
+2016 02 06 03:02:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:57|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:57|Starting script..
+2016 02 06 03:02:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:50|Starting script..
+2016 02 06 03:02:52|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:52|Starting script..
+2016 02 06 03:02:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:18|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:18|Starting script..
+2016 02 06 03:02:21|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:21|Starting script..
+2016 02 06 03:02:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:09|Starting script..
+2016 02 06 03:02:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:14|Starting script..
+2016 02 06 03:02:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:22|Starting script..
+2016 02 06 03:02:26|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:26|Starting script..
+2016 02 06 03:02:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:07|Starting script..
+2016 02 06 03:02:35|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 03:02:35|Starting script..
+2016 02 06 04:02:10|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:10|Starting script..
+2016 02 06 04:02:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:23|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:23|Starting script..
+2016 02 06 04:02:31|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:31|Starting script..
+2016 02 06 04:02:39|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:39|Starting script..
+2016 02 06 04:02:43|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:43|Starting script..
+2016 02 06 04:02:49|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:49|Starting script..
+2016 02 06 04:02:52|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:52|Starting script..
+2016 02 06 04:02:55|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:55|Starting script..
+2016 02 06 04:02:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:22|Starting script..
+2016 02 06 04:02:26|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:26|Starting script..
+2016 02 06 04:02:15|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 04:02:15|Starting script..
+2016 02 06 05:02:55|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 05:02:55|Starting script..
+2016 02 06 05:02:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 05:02:03|Starting script..
+2016 02 06 05:02:37|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 05:02:37|Starting script..
+2016 02 06 05:02:47|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 05:02:47|Starting script..
+2016 02 06 05:02:51|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 05:02:51|Starting script..
+2016 02 06 05:02:36|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 05:02:36|Starting script..
+2016 02 06 10:02:02|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:30|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:55|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:25|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:45|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:45|Starting script..
+2016 02 06 10:02:58|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:58|Starting script..
+2016 02 06 10:02:01|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:01|Starting script..
+2016 02 06 10:02:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 10:02:06|Starting script..
+2016 02 06 11:02:00|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:03|Starting script..
+2016 02 06 11:02:12|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:12|Starting script..
+2016 02 06 11:02:34|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:51|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:51|Starting script..
+2016 02 06 11:02:02|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:02|Starting script..
+2016 02 06 11:02:41|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:41|Starting script..
+2016 02 06 11:02:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:50|Starting script..
+2016 02 06 11:02:57|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:57|Starting script..
+2016 02 06 11:02:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2016 02 06 11:02:14|Starting script..
